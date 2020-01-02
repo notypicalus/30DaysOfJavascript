@@ -1,1 +1,2 @@
-* 30 days of Javascript challenge
+# 30DaysOfJavascript
+30DaysOfJavascript chanllenge
